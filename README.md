@@ -24,6 +24,7 @@
 | [0061-rotate-list](https://github.com/anujku-09/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/anujku-09/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0725-split-linked-list-in-parts](https://github.com/anujku-09/LeetCode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
