@@ -26,6 +26,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/anujku-09/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0725-split-linked-list-in-parts](https://github.com/anujku-09/LeetCode/tree/main/0725-split-linked-list-in-parts/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anujku-09/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
