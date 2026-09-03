@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anujku-09/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/anujku-09/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anujku-09/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +54,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/anujku-09/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/anujku-09/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 <!---LeetCode Topics End-->
