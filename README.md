@@ -45,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0386-lexicographical-numbers](https://github.com/anujku-09/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,8 @@
 | [0445-add-two-numbers-ii](https://github.com/anujku-09/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/anujku-09/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anujku-09/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0386-lexicographical-numbers](https://github.com/anujku-09/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
 <!---LeetCode Topics End-->
