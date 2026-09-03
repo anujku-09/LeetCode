@@ -25,6 +25,7 @@
 | [0061-rotate-list](https://github.com/anujku-09/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/anujku-09/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/anujku-09/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/anujku-09/LeetCode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/anujku-09/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/anujku-09/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0445-add-two-numbers-ii](https://github.com/anujku-09/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/anujku-09/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anujku-09/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 <!---LeetCode Topics End-->
