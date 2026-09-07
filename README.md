@@ -4,6 +4,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/anujku-09/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0278-first-bad-version](https://github.com/anujku-09/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -12,6 +13,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/anujku-09/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anujku-09/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/anujku-09/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anujku-09/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
