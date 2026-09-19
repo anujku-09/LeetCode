@@ -38,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0321-create-maximum-number](https://github.com/anujku-09/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
+| [0402-remove-k-digits](https://github.com/anujku-09/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anujku-09/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@
 | [0085-maximal-rectangle](https://github.com/anujku-09/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0321-create-maximum-number](https://github.com/anujku-09/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
+| [0402-remove-k-digits](https://github.com/anujku-09/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/anujku-09/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anujku-09/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anujku-09/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -106,6 +108,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/anujku-09/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/anujku-09/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0321-create-maximum-number](https://github.com/anujku-09/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
+| [0402-remove-k-digits](https://github.com/anujku-09/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anujku-09/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/anujku-09/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/anujku-09/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -141,4 +144,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/anujku-09/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/anujku-09/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
