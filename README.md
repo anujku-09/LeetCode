@@ -148,4 +148,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/anujku-09/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/anujku-09/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/anujku-09/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
