@@ -43,6 +43,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/anujku-09/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0146-lru-cache](https://github.com/anujku-09/LeetCode/tree/main/0146-lru-cache/) | Medium |
@@ -153,4 +154,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/anujku-09/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
