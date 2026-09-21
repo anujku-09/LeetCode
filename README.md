@@ -74,17 +74,20 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/anujku-09/LeetCode/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,4 +184,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
