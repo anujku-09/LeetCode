@@ -47,6 +47,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/anujku-09/LeetCode/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anujku-09/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/anujku-09/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/anujku-09/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/anujku-09/LeetCode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/anujku-09/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -129,6 +130,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/anujku-09/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/anujku-09/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0496-next-greater-element-i](https://github.com/anujku-09/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
