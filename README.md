@@ -35,6 +35,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/anujku-09/LeetCode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/anujku-09/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anujku-09/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anujku-09/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/anujku-09/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anujku-09/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Greedy
@@ -107,6 +108,7 @@
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/anujku-09/LeetCode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/anujku-09/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anujku-09/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/anujku-09/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anujku-09/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Trie
