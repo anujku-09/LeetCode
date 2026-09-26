@@ -23,6 +23,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anujku-09/LeetCode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/anujku-09/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/anujku-09/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0119-pascals-triangle-ii](https://github.com/anujku-09/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anujku-09/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anujku-09/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0321-create-maximum-number](https://github.com/anujku-09/LeetCode/tree/main/0321-create-maximum-number/) | Hard |
@@ -119,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/anujku-09/LeetCode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0119-pascals-triangle-ii](https://github.com/anujku-09/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/anujku-09/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anujku-09/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Monotonic Stack
