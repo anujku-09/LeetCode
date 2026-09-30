@@ -78,6 +78,7 @@
 | [0739-daily-temperatures](https://github.com/anujku-09/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/anujku-09/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/anujku-09/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anujku-09/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anujku-09/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -176,6 +177,7 @@
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/anujku-09/LeetCode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0402-remove-k-digits](https://github.com/anujku-09/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anujku-09/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anujku-09/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/anujku-09/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
@@ -242,5 +244,6 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anujku-09/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anujku-09/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
