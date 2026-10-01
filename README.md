@@ -88,6 +88,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/anujku-09/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anujku-09/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/anujku-09/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/anujku-09/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anujku-09/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,10 +152,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/anujku-09/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anujku-09/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/anujku-09/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anujku-09/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/anujku-09/LeetCode/tree/main/0901-online-stock-span/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
@@ -194,6 +198,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/anujku-09/LeetCode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/anujku-09/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anujku-09/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1046-last-stone-weight](https://github.com/anujku-09/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -248,4 +253,8 @@
 | ------- | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anujku-09/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anujku-09/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/anujku-09/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
