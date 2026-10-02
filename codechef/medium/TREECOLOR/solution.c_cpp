@@ -1,0 +1,30 @@
+#include <bits/stdc++.h>
+
+unordered_set<int> dfs(int node, int parent, const vector<int>& C, const vector<vector<int>>& adj, vector<int>& ans){
+    unordered_set<int> mySet;
+    mySet.insert(C[node - 1]);
+    for(int child : adj[node]){
+        if(child != parent){
+            unordered_set<int> childSet = dfs(child, node, C, adj, ans);
+            if(childSet.size() > mySet.size()){
+                swap(mySet, childSet);
+            }
+            for(int color : childSet){
+                mySet.insert(color);
+            }
+        }
+    }
+    ans[node - 1] = mySet.size();
+    return mySet;
+}
+
+vector<int> distinctColorsInSubtrees(int N, vector<int>& C, vector<vector<int>>& edges) {
+    vector<vector<int>> adj(N + 1);
+    for(auto& e : edges){
+        adj[e[0]].push_back(e[1]);
+        adj[e[1]].push_back(e[0]);
+    }
+    vector<int> ans(N);
+    dfs(1, 0, C, adj, ans);
+    return ans;
+}
